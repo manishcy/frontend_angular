@@ -5,7 +5,7 @@ import { Tutorial } from '../models/tutorial.model';
 
 //const baseUrl = 'http://localhost:8080/api/tutorials';
 //const baseUrl = 'http://172.27.59.174:8092/api/tutorials';
-const baseUrl = 'http://172.27.59.174:8090/api/tutorials';
+const baseUrl = 'http://172.27.59.174:8080/api/tutorials';
 
 @Injectable({
   providedIn: 'root'
